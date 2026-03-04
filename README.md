@@ -1,0 +1,1 @@
+These excel files contains descriptions on the menu system in the Nikon Z cameras and some reasons to why certain options are grayed out. This is an attempt to address this issue and possibly help some camera users.
